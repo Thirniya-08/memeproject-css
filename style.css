@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+h1{
+    color:white;
+    font-family:Libre Baskerville,serif;
+    text-align:center;
+    text-transform:uppercase;
+}
+h4{
+    color:white;
+    font-family:Libre Baskerville,serif;
+    text-align:center;
+    
+}
+#moti-image{
+    border:5px solid white;
+    width:50%;
+    margin-left:25%;
+}
